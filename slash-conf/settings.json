@@ -1,0 +1,9 @@
+{
+  "author":      "Chris Jacobs",
+  "description": "Blog Template",
+  "icon":        "slash-conf/icon.jpg",
+  "name":        "Blog",
+  "url":         "blog/",
+  "repo_url":    "slashnet/blog"
+}
+
